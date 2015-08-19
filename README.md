@@ -13,3 +13,5 @@ react-native 学习笔记
 [flex实践教程](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 [fetch](http://javascript.ruanyifeng.com/bom/ajax.html#toc13)
+
+[ui组件](http://react.parts/)
