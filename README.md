@@ -15,3 +15,5 @@ react-native 学习笔记
 [fetch](http://javascript.ruanyifeng.com/bom/ajax.html#toc13)
 
 [ui组件](http://react.parts/)
+
+[存储](https://github.com/thewei/react-native-store)
